@@ -1,0 +1,48 @@
+#Zone2 {
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Source sans Pro',
+        Calibri,
+        Tahoma,
+        sans-serif;
+}
+
+#page {
+    width: 780px;
+    margin: auto;
+}
+
+#entête {
+    height: 250px;
+}
+
+#Description {
+    float: left;
+}
+
+#photo {
+    float: right;
+}
+
+.section {
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche {
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.sec-droite {
+    margin-left: 300px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #3388DD;
+    text-transform: uppercase;
+    border-bottom: 3px solid #3388DD
+}
